@@ -1,15 +1,1 @@
-﻿# schematic
-
-[通信](./COM/COM.md)
-
-### 简介
-
-本仓库整理常用硬件电路图
-
-
-
----
-
-## 为锻造最美之器
-
-[![sites](qitas/qitas.png)](http://www.qitas.cn)
+[![sites](http://182.61.61.133/link/resources/head.png)](http://www.OS-Q.com)
